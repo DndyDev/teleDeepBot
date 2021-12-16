@@ -41,7 +41,7 @@
         "limit": 10,
         "multilabel": false,
         "number_of_layers": 1,
-        "number_of_intents": 23,
+        "number_of_intents": 14,
         "hidden_dim": 256,
         "save_path": "{MODEL_PATH}/model",
         "load_path": "{MODEL_PATH}/model",
